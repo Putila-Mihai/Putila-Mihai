@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Student from Romania</h3>
 
 <!-- Styling the overall container -->
-<div style="background-color: #0d1117; color: #ff8647; padding: 20px; border-radius: 10px;">
+<div style="background-color: #FFFFFF; color: #ff8647; padding: 20px; border-radius: 10px;">
 
   <!-- Information section -->
   <div style="margin-bottom: 20px;">
