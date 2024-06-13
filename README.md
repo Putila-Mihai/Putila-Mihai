@@ -29,7 +29,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2phdXBob21tMWQycGgxbzdpM25rZmVyenhubHMzYW85bmhuNWJxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif"  />
+<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2phdXBob21tMWQycGgxbzdpM25rZmVyenhubHMzYW85bmhuNWJxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif"  />
 
 ###
 
