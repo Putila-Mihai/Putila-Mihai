@@ -1,5 +1,5 @@
 <!-- Centered title and subtitle -->
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Hi 👋, I'm Mihai</h1>
 <h3 align="center">A passionate Student from Romania</h3>
 
 <!-- Styling the overall container -->
