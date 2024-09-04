@@ -83,7 +83,8 @@
 
 <br/>  
 
-[![Spotify]([https://img.shields.io/badge/Spotify-Track-green](https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_Green.png))]([https://open.spotify.com/track/3I42nWT5FfoiiR3CxCT5bb?utm_source=generator](https://open.spotify.com/user/31irycny6islozhmp5ach7dupxlu?si=0d8f9933913948c5))
+[![Spotify](https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_White.png)](https://open.spotify.com/user/31irycny6islozhmp5ach7dupxlu?si=8e9569c4a0644f09)
+
 
 
 <br/>  
