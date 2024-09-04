@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://gifsec.com/wp-content/uploads/2022/11/retro-anime-gif-34.gif![image](https://github.com/user-attachments/assets/b75e50ba-7a0d-46dd-a56f-b3920708e13e)
-" align="center" style="width: 100%" />
+<img src="https://gifsec.com/wp-content/uploads/2022/11/retro-anime-gif-34.gif" align="center" style="width: 100%" />
 </div>  
   
 
