@@ -82,8 +82,9 @@
 
 
 <br/>  
-
-[![Spotify](https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_White.png)](https://open.spotify.com/user/31irycny6islozhmp5ach7dupxlu?si=8e9569c4a0644f09)
+<a href="https://open.spotify.com/user/31irycny6islozhmp5ach7dupxlu?si=8e9569c4a0644f09">
+    <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_White.png" alt="Spotify" width="200">
+</a>
 
 
 
