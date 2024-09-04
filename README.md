@@ -83,7 +83,8 @@
 
 <br/>  
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3I42nWT5FfoiiR3CxCT5bb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Spotify](https://img.shields.io/badge/Spotify-Track-green)](https://open.spotify.com/track/3I42nWT5FfoiiR3CxCT5bb?utm_source=generator)
+
 
 <br/>  
 
