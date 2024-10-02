@@ -8,10 +8,7 @@
 - 🌱 I’m currently learning cyber security fundamentals   
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- 📕I enjoy reading, especially fantasy 🐉 and playing basketball  
+- I enjoy sports🏀 video games👾 and reading,especially fantasy 🐉.
   
 
 <br/>  
