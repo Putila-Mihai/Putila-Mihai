@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">I'm Mihai, a BackEnd developer 👨‍💻and a computer science student🇷🇴</div>  
+### <div align="center">I'm Mihai, a Software developer 👨‍💻and a computer science student🇷🇴</div>  
   
 
 - 🌱 I’m currently learning cyber security fundamentals   
