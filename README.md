@@ -51,7 +51,7 @@
 </div>
 
 </td></tr></table>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putila-Mihai&hide_border=true&layout=compact" align="center" /></div>  
 <br/>  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/putila-alexandru/" target="_blank">
@@ -67,10 +67,5 @@
         <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_White.png" alt="Spotify" width="120">
     </a>
 </div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putila-Mihai&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
 
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
