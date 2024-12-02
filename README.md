@@ -15,9 +15,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<table align="center"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -66,7 +64,7 @@
 
 <div align="center">
     <a href="https://open.spotify.com/user/31irycny6islozhmp5ach7dupxlu?si=8e9569c4a0644f09">
-        <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_White.png" alt="Spotify" width="200">
+        <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_White.png" alt="Spotify" width="120">
     </a>
 </div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putila-Mihai&hide_border=true&layout=compact" align="center" /></div>  
