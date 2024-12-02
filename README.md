@@ -55,9 +55,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/putila-alexandru/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -72,12 +69,6 @@
         <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Full_Logo_RGB_White.png" alt="Spotify" width="200">
     </a>
 </div>
-  
-
-<br/>  
-
-
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Putila-Mihai&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
