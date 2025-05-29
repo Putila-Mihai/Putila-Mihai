@@ -1,10 +1,6 @@
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center">I'm Mihai, a software engineer / computer science student</div>  
-  
-
+    
 - 🌱 I’m currently learning cyber security fundamentals   
   
 <br/>  
